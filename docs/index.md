@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "2024 Zhejiang Sci-Tech University techical writing showcase"
-  text: "This site is the showcase for Zhejiang Sci-Tech University techical writing assignments in 2024."
+  name: "2024 Zhejiang Sci-Tech University technical writing showcase"
+  text: "This site is the showcase for Zhejiang Sci-Tech University technical writing assignments in 2024."
   tagline: My great project tagline
   actions:
     - theme: brand

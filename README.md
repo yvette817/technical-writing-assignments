@@ -1,1 +1,1 @@
-# techhnical-writing-assignments
+# technical-writing-assignments
