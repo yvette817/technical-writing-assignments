@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "2024 Zhejiang Sci-Tech University technical writing showcase"
-  text: "This site is the showcase for Zhejiang Sci-Tech University technical writing assignments in 2024."
+  name: "Technical writing showcase"
+  text: ""
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Step 1
+    details: git add
+  - title: Step 2
+    details: git commit
+  - title: Step 3
+    details: git push
 ---
 
