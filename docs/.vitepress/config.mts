@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: 'https://tech.amber-moe.io/docs/' },
+      { text: 'Home', link: 'https://tech.amber-moe.io' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
@@ -25,5 +25,4 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
-  base:"/docs/"
 })
