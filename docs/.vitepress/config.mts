@@ -18,6 +18,7 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Sample work', link: '/sample-work.md' },
+          { text: 'Test sync', link: '/test-sync.md' },
         ]
       }
     ],
