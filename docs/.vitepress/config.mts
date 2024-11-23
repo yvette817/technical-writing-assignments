@@ -19,6 +19,8 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Sample work', link: '/sample-work.md' },
           { text: 'Test sync', link: '/test-sync.md' },
+          { text: 'Xiangyang', link: '/202131202042-xiangyang.md' },
+
         ]
       }
     ],
