@@ -39,6 +39,7 @@ export default defineConfig({
           { text: 'Damai', link: '/final/Damai'},
           { text: 'Taobao', link: '/final/Taobao-by-Aki'},
           { text: 'Baidu Netdisk', link: '/final/Xunyuuuuu'},
+          { text: 'QQ', link: '/final/xiangyang-final'},
         ]
       },
     ],
