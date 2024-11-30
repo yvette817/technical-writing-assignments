@@ -35,6 +35,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Test Sync', link: '/final/test-sync' }
+          { text: 'TikTok', link: '/final/TikTok-by-Lynn'}
         ]
       },
     ],
