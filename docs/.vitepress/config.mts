@@ -34,9 +34,10 @@ export default defineConfig({
         text: 'Final work',
         collapsed: true,
         items: [
-          { text: 'Test Sync', link: '/final/test-sync' }
-          { text: 'TikTok', link: '/final/TikTok-by-Lynn'}
-          { text: 'Damai', link: '/final/Damai' }
+          { text: 'Test Sync', link: '/final/test-sync' },
+          { text: 'TikTok', link: '/final/TikTok-by-Lynn'},
+          { text: 'Damai', link: '/final/Damai' },
+          { text: 'Taobao', link: '/final/Taobao-by-Aki'},
         ]
       },
     ],
