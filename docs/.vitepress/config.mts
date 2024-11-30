@@ -38,6 +38,7 @@ export default defineConfig({
           { text: 'TikTok', link: '/final/TikTok-by-Lynn'},
           { text: 'Damai', link: '/final/Damai' },
           { text: 'Taobao', link: '/final/Taobao-by-Aki'},
+          { text: 'Baidu Netdisk', link: '/final/Xunyuuuuu'},
         ]
       },
     ],
