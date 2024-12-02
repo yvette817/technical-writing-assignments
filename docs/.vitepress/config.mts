@@ -40,6 +40,7 @@ export default defineConfig({
           { text: 'Taobao', link: '/final/Taobao-by-Aki'},
           { text: 'Baidu Netdisk', link: '/final/Xunyuuuuu'},
           { text: 'QQ', link: '/final/xiangyang-final'},
+          { text: 'PS', link: '/final/2023221402025zhangchenran'},
         ]
       },
     ],
