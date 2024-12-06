@@ -29,7 +29,6 @@ TikTok is a multifaceted social media app that allows users to create, share, an
     ![This is a picture](https://wallaroomedia.com/wp-content/uploads/2023/10/PopularHashtags-scaled-e1698162889139-1068x1536.jpg "The Discoery Page")
 
 - Use the search bar to find specific users, hashtags, or content.
-    ![This is a picture](https://s3-prod.adage.com/s3fs-public/styles/width_660/public/20230822_TikTokSearchAds_3X2.JPG "Search")
 
 ### Social Interaction
 
