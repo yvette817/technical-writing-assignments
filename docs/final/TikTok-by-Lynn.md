@@ -81,7 +81,7 @@ TikTok is a multifaceted social media app that allows users to create, share, an
     - Swipe Up/Down: Swipe up or down to browse through different videos.
 
     - Like, Comment, and Share: Tap the heart icon to like a video, leave a comment by tapping the comment icon, or share the video by tapping the share icon.
-        [This is a picture](https://blog-cdn.jumpshare.com/blog/wp-content/uploads/2022/10/How-to-Share-TikTok-via-Link.jpg "Share")
+        ![This is a picture](https://blog-cdn.jumpshare.com/blog/wp-content/uploads/2022/10/How-to-Share-TikTok-via-Link.jpg "Share")
 
 4. Create and Upload Videos
 
